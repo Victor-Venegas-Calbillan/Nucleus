@@ -1,4 +1,4 @@
-a# TiendaMuebles
+# TiendaMuebles
 
 ## Descripcion 
 Esta es una maquetacion echa en HTML5 y CSS3 (Gird y Flexbox)
